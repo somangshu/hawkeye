@@ -49,6 +49,7 @@ npm run build
 
 - chrome.alarms for reccursive/automated tracking
 - Sound notification if a slot if avilable 
+- Publish to chrome extension store
 
 ## Authors
 
