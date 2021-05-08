@@ -50,6 +50,8 @@ npm run build
 - chrome.alarms for reccursive/automated tracking
 - Sound notification if a slot if avilable 
 - Publish to chrome extension store
+- Automated slot of the day prediction and related notification
+- Send reminder on SMS
 
 ## Authors
 
