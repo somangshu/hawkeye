@@ -48,7 +48,7 @@ npm run build
 ### Roadmap
 
 - ~~chrome.alarms for reccursive/automated tracking~~
-- ~~Sound notification if a slot is avilable ~~
+- ~~Sound notification if a slot is avilable~~
 - Publish to chrome extension store
 - Automated slot of the day prediction and related notification
 - Send reminder on SMS
