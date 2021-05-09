@@ -1,6 +1,6 @@
 # Cobhin-Tracks
 
-A simple chrome extension built which tracks covid 19 vaccine for a given pin code in India. This application is powered by the APIsetu open apis for covid 19 vaccine (cowin)
+A simple chrome extension built to which tracks covid 19 vaccine for a given pin-code in India. This application is powered by the APIsetu open apis for covid 19 vaccine (cowin)
 
 ## Features
 
@@ -48,8 +48,10 @@ npm run build
 ### Roadmap
 
 - chrome.alarms for reccursive/automated tracking
-- Sound notification if a slot if avilable 
+- Sound notification if a slot is avilable 
 - Publish to chrome extension store
+- Automated slot of the day prediction and related notification
+- Send reminder on SMS
 
 ## Authors
 
