@@ -1,8 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+
 .container {
+  font-family: "Open Sans", sans-serif;
   margin: 1.5em;
   text-align: center;
+  width: 250px;
+}
+
+.dark-mode {
+  background: #333;
+  color: #fff !important;
+}
+
+.enter-country {
+  font-size: 16px;
+  font-weight: 600;
 }
 
 .result {
   margin-top: 1em;
+}
+
+form input {
+  margin: 15px 0;
+  padding: 12px 10px;
+  outline: none;
+  border: 1px solid #bbb;
+  border-radius: 5px;
+  display: inline-block;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: 0.2s ease all;
+  -moz-transition: 0.2s ease all;
+  -ms-transition: 0.2s ease all;
+  -o-transition: 0.2s ease all;
+  transition: 0.2s ease all;
+}
+
+form input[type="text"]:focus,
+form input[type="password"]:focus {
+  border-color: cornflowerblue;
+}
+
+.search-btn {
+  padding: 10px 30px;
+  width: auto;
+  background: #1abc9c;
+  border: none;
+  color: white;
+  cursor: pointer;
+  display: inline-block;
+  clear: right;
+  -webkit-transition: 0.2s ease all;
+  -moz-transition: 0.2s ease all;
+  -ms-transition: 0.2s ease all;
+  -o-transition: 0.2s ease all;
+  transition: 0.2s ease all;
+}
+
+.search-btn:hover {
+  opacity: 0.8;
+}
+
+.search-btn:active {
+  opacity: 0.4;
+}
+
+.noSlots {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.bd-top {
+  border-top: 1px solid #eee;
+  padding-top: 5px;
+}
+
+.dark-control {
+  text-align: right;
+  color: #666;
+  text-decoration: underline;
+  font-size: 10px;
+  cursor: pointer;
+  padding: 18px 0px 0px 0px;
+  margin-left: auto;
+}
+
+.dark-mode .dark-control {
+  color: #fafafa;
+}
+
+.footer-controls {
+  display: flex;
+  justify-content: space-between;
+}
+
+.stop-tracking {
+  text-align: left;
+  color: #666;
+  text-decoration: underline;
+  font-size: 10px;
+  cursor: pointer;
+  padding: 18px 0px 0px 0px;
+}
+
+.dark-mode .stop-tracking {
+  color: #fafafa;
 }
