@@ -12,7 +12,7 @@ After being tired of checking for vaccination slots every minute of everyday, he
 
 ### To install the extension in Chrome
 
-Checkout the detailed installation steps, along with step-by-step screenshots. [here](https://docs.google.com/document/d/1kW2g2cxM8YZGmkUs7YzGF_4mhOeokP2UZkhNrrOW-L4). Thanks to [Richa Mohta](https://github.com/richamohta)for maintaning the documentation.
+Checkout the detailed installation steps, along with step-by-step screenshots. [here](https://docs.google.com/document/d/1kW2g2cxM8YZGmkUs7YzGF_4mhOeokP2UZkhNrrOW-L4). Thanks to [Richa Mohta] (https://github.com/richamohta)for maintaning the documentation.
 
 - Get a local copy of the codebase from [here](https://github.com/somangshu/cobhin-tracks.git).
 - Download the ‘Source code.zip’ file from the assets.
