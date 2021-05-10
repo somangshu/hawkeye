@@ -50,6 +50,7 @@ chrome.storage.sync.get(
         darkControl.textContent = "Dark mode: On";
       }
 
+      // if a last found slot exist then we show that to the user
       if (last_found_slot) {
         const { center, session } = last_found_slot;
         recovered.textContent =
