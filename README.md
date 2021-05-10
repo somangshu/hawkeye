@@ -12,6 +12,8 @@ A simple chrome extension built to which tracks covid 19 vaccine for a given pin
 
 ### To install in Chrome
 
+Checkout the detailed installation steps [here](https://docs.google.com/document/d/1kW2g2cxM8YZGmkUs7YzGF_4mhOeokP2UZkhNrrOW-L4) (with screenshots). Thanks to Richa Mohta for maintaning the documentation.
+
 - Get a local copy of the codebase from [here](https://github.com/somangshu/cobhin-tracks.git)
 - Head over to chrome://extensions
 - Toggle "Developer mode" on.
