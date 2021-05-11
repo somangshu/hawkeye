@@ -1,4 +1,4 @@
-# Cobhin-Tracks
+# Hawkeye
 
 After being tired of checking for vaccination slots every minute of everyday, here's presenting a simple chrome extension built to do exactly that for any given pin-code in India. This application is powered by the APIsetu open apis for covid 19 vaccine (cowin)
 
